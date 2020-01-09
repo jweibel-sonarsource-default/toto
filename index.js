@@ -9,12 +9,15 @@
     console.log('Coucou,', blabla);
   }
 
-  const tata = 1;
-  const tata = 2;
+  alert("trololololo");
 
-  console.log("DEBUG", tata);
+  if (iWereAnAnimal) alert("I would be a *****");
 
-  function 1coucou() {
-    alert("coucou");
+  // Habile, Bill
+  // Faisons comme ça
+  function shutUpKissMyAss() {
+    const foo = 'bar';
+    const bar = foo;
+    console.log(foo + foo);
   }
 })();
